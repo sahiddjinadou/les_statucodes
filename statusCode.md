@@ -31,3 +31,6 @@ Les codes de statut HTTP sont des réponses standardisées que les serveurs web 
 - **503 Service Unavailable** : Le serveur n'est pas disponible pour le moment (surcharge ou maintenance).
 
 Ces codes de statut aident à comprendre ce qui se passe avec les requêtes que vous envoyez ou recevez.
+
+
+
